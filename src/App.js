@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './Layout';
 import './App.css';
 function Home() {
-  return <h1>Bienvenidos a la Página de Inicio:JDLR | 18-jun-14:17</h1>;
+  return <h1>Bienvenidos a la Página de Inicio:JDLR | 18-jun-14:26</h1>;
 }
 function About() {
   return <h2>Acerca de Nosotros</h2>;
